@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.452
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logic", "Logic\Logic.csproj", "{238A3824-6464-4C03-9CE0-22EA125B10F5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsUI", "WindowsUI\WindowsUI.csproj", "{826C5145-39FE-4995-AAC3-A09678CED40E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{83C05E45-1F15-4FA2-B094-88C2833ECA9C}"
+	ProjectSection(SolutionItems) = preProject
+		Exercise Checking Report.txt = Exercise Checking Report.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{238A3824-6464-4C03-9CE0-22EA125B10F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{238A3824-6464-4C03-9CE0-22EA125B10F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{238A3824-6464-4C03-9CE0-22EA125B10F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{238A3824-6464-4C03-9CE0-22EA125B10F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{826C5145-39FE-4995-AAC3-A09678CED40E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{826C5145-39FE-4995-AAC3-A09678CED40E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{826C5145-39FE-4995-AAC3-A09678CED40E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{826C5145-39FE-4995-AAC3-A09678CED40E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {655E241B-15F8-4055-83C5-82D19D66233F}
+	EndGlobalSection
+EndGlobal
